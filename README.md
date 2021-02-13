@@ -10,4 +10,7 @@ https://github.com/guihen01/Docker.PullCount/blob/main/Doc/Capture1.PNG
 
 . reference to download the package is : https://www.nuget.org/packages/DockerLibr/
  
+# Example 
 
+https://github.com/guihen01/DockerLibr/blob/main/Doc/Capture-DockerPullCount.PNG
+![alt text](https://github.com/guihen01/DockerLibr/blob/main/Doc/Capture-DockerPullCount.PNG "Logo Title Text 1")
