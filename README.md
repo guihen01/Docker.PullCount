@@ -8,11 +8,6 @@ https://github.com/guihen01/Docker.PullCount/blob/main/Doc/Capture1.PNG
 # it is distributed as nuget package 
 . This method is included in a library package
 
-. reference to download the package is :  ...........
+. reference to download the package is : https://www.nuget.org/packages/DockerLibr/
  
- # How to use
-
-
-# Sample of this method 
-
 
